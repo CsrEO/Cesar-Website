@@ -4,8 +4,8 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import About from "./about";
-import Home from "./home";
+import About from "./About";
+import Home from "./Home";
 
 export default function App() {
     return (
@@ -14,7 +14,7 @@ export default function App() {
           <Route path="about" element={<About></About>} />
         </Route>
       </Routes>
-       
+
     );
 }
 
