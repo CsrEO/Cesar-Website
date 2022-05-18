@@ -1,0 +1,23 @@
+.content2 {
+    background-color: #8AFFAB;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.my-image {
+    background-color: #5DE794;
+    border-radius: 15px;
+}
+
+.description,
+
+.header1 {
+    font-weight: 600;
+}
+
+.header2 {
+    font-weight: 400;
+}
